@@ -13,7 +13,7 @@ public class Pieces {
         pieceName = name;
 
         for(int count = 0; count < amt; count ++) {
-            System.out.println(name + " " + count + 1);
+            System.out.println(name + " " + (count + 1));
 
         }
     }
