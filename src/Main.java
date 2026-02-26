@@ -5,7 +5,7 @@ public class Main {
 
         board.drawGame();
 
+        Pieces pawns = new Pieces("Pawn", 8);
+
     }
-
-
 }
